@@ -1,0 +1,10 @@
+body {
+	font-size: 28px;
+}
+ul#fsize li#me a {
+	background: url(../images/fsize.png) left center;
+}
+
+ul#fsize li#la a {
+	background: url(../images/fsize_on.png) right center;
+}
