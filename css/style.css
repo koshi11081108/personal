@@ -809,9 +809,12 @@ header #inner {
 /*ロゴ画像*/
 header #logo {
 	position: absolute;
-	left: 0px;
+	left: 10px;
 	top: 10px;
 	width: 70%;
+	font-size: 160%;
+	color: black;
+	font-weight: bold;
 }
 /*TEL*/
 header #tel {
@@ -823,7 +826,8 @@ header #tel {
 }
 header #tel strong {
 	display: inline;
-}
+} 
+
 
 /*ヘッダー内メニュー（「物件のお問い合わせはこちら」ボタン）
 ---------------------------------------------------------------------------*/
