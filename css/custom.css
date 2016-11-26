@@ -1,0 +1,9 @@
+/* Land Animation for PagamO */
+.wrapper{
+  width: 100%;
+}
+
+.wrapper #Land{
+  width: 400px;
+  margin: 0 auto;
+}
